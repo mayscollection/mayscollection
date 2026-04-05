@@ -1,11 +1,11 @@
-### Hola 👋
+### maydeng.me
 
-I'm May Deng.
+engineer @rednote
 
-SDE @iFLYTEK.
+product manager, builder and designer.
 
-**📫 How to reach me:**
+with an artist's mind.
 
-- **Website**: [**maydeng.me**](https://maydeng.me)
-- **Email**: [hi@maydeng.me](mailto:hi@maydeng.me)
-- **WeChat**: mayscollections
+- Website 💾 [**maydeng.me**](https://maydeng.me)
+- Email 📮 [hi@maydeng.me](mailto:hi@maydeng.me)
+- WeChat 👋 mayscollections
