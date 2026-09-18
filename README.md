@@ -1,11 +1,9 @@
 ### maydeng.me
 
-engineer @rednote
+sde @ xiaohongshu, shanghai.
 
-product manager, builder and designer.
+builder, designer and product manager.
 
-with an artist's mind.
+keep thinking, keep learning.
 
-- Website 💾 [**maydeng.me**](https://maydeng.me)
 - Email 📮 [hi@maydeng.me](mailto:hi@maydeng.me)
-- WeChat 👋 mayscollections
